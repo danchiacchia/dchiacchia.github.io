@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1598478746140.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1025272123",
+    "id" : "4F6388E2",
+    "lastKnownWriteTime" : 1598478792,
+    "last_content_update" : 1598478792028,
+    "path" : "~/website/content/publication/journal-article/index.md",
+    "project_path" : "content/publication/journal-article/index.md",
+    "properties" : {
+        "cursorPosition" : "23,0",
+        "scrollLine" : "2"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "markdown"
+}

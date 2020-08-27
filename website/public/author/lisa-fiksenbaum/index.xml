@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lisa Fiksenbaum | Daniel J. Chiacchia, MA</title>
+    <link>/author/lisa-fiksenbaum/</link>
+      <atom:link href="/author/lisa-fiksenbaum/index.xml" rel="self" type="application/rss+xml" />
+    <description>Lisa Fiksenbaum</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©Daniel Chiacchia 2020</copyright><lastBuildDate>Wed, 15 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Lisa Fiksenbaum</title>
+      <link>/author/lisa-fiksenbaum/</link>
+    </image>
+    
+    <item>
+      <title>Predicting Depression During a Pandemic</title>
+      <link>/publication/conference-paper2/</link>
+      <pubDate>Wed, 15 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/conference-paper2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The role of self-compassion during difficult economic times</title>
+      <link>/publication/journal-article/</link>
+      <pubDate>Sun, 23 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

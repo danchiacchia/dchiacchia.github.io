@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1598471167733.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3638157421",
+    "id" : "A47C0972",
+    "lastKnownWriteTime" : 1598281552,
+    "last_content_update" : 1598281552,
+    "path" : "~/website/static/admin/config.yml",
+    "project_path" : "static/admin/config.yml",
+    "properties" : {
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 7,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "yaml"
+}
